@@ -1,0 +1,14 @@
+res://blocks/flag.tscn::9929bd7dae70dc586768ca367d567c19::1709764222::res://.godot/exported/133200997/export-9f7ce68770595161f40f52aaae679671-flag.scn
+res://blocks/spikes.tscn::e7c0f081923633ff433cfc2cdf49a871::1704235977::res://.godot/exported/133200997/export-be2d4aa6995f27bcb42c2c8c80592bf0-spikes.scn
+res://gui/level.tscn::01b7b976a5525ee0556fce08fa9b39d0::1709764222::res://.godot/exported/133200997/export-53954600d2c6cc3347ccae2aadaf8b72-level.scn
+res://gui/timer.tscn::d7041273bddd452555b85039e0d403cb::1704235977::res://.godot/exported/133200997/export-a6750067c8cd4f0fe07668844c5715cd-timer.scn
+res://levels/0-0.tscn::080d3defa0430fefe5f102277e276d20::1709765024::res://.godot/exported/133200997/export-5e76b6ea32b610661abba20ad229d3df-0-0.scn
+res://levels/1-1.tscn::8162a0e73bdc9aa67e2cfc51131a6066::1709765024::res://.godot/exported/133200997/export-b56d7df9cdfb403e68fa0c786db6a417-1-1.scn
+res://levels/1-2.tscn::8dd8eb85ca314cf762271c09a688c895::1709765024::res://.godot/exported/133200997/export-f03f3d87610bd43d87c18f31f0720a71-1-2.scn
+res://levels/1-3.tscn::6d87d98d0d8d9793853071743c24691d::1709765024::res://.godot/exported/133200997/export-0e62eb4564c5367eb2e29555ef8e8d72-1-3.scn
+res://levels/base_level.tscn::5a60486aed370924c39b105fe31485c4::1709765023::res://.godot/exported/133200997/export-91b05a10019765108193bb2afad7b3d9-base_level.scn
+res://player/player.tscn::1dcaba52b1b3e35dafe0e2e3eb373028::1709764222::res://.godot/exported/133200997/export-753d15e03e0182f9d550ac833b42bb41-player.scn
+res://default_env.tres::37538b5151cae0aaf501666bed119923::1709765024::res://.godot/exported/133200997/export-7cf3fd67ad9f55210191d77b582b8209-default_env.res
+res://levels/1-4.tscn::0ffb3f7da2ef7cca90c791b9645758c1::1709765024::res://.godot/exported/133200997/export-b578ac9c0dea146312aff8c39dbcea64-1-4.scn
+res://levels/1-5.tscn::ece9efec22e01dc0a652e4b60fa85427::1709765024::res://.godot/exported/133200997/export-56ce135a063212edbeb366e2bc84ee96-1-5.scn
+res://levels/0-1.tscn::15bdc6253a6326a99c3ce0ee440b132e::1709765024::res://.godot/exported/133200997/export-c622547055ff0bef1131b42e164a0424-0-1.scn

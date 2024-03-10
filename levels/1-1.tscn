@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://cn01flrxhohto"]
+
+[ext_resource type="PackedScene" uid="uid://bj1rqvfibktg5" path="res://levels/base_level.tscn" id="1_o2gjx"]
+
+[node name="1-1" instance=ExtResource("1_o2gjx")]
+
+[node name="Label" parent="canvas/menu" index="0"]
+offset_bottom = 22.0
+
+[node name="level" parent="canvas" index="2"]
+offset_right = 58.0
+
+[node name="time_attack" parent="canvas" index="3"]
+offset_left = 244.0
+offset_right = 276.0
+
+[node name="cover" parent="canvas" index="4"]
+offset_right = 3200.0
+offset_bottom = 1800.0

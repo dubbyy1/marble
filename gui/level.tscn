@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://bv86oo5qdvfhe"]
+
+[ext_resource type="FontFile" uid="uid://bbbv4doyf82r4" path="res://kongtext.ttf" id="1"]
+[ext_resource type="Script" path="res://gui/level.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://cx61asrwxdus0" path="res://sprites/button_bg.png" id="3"]
+
+[sub_resource type="FontFile" id="1"]
+fallbacks = Array[Font]([ExtResource("1"), ExtResource("1")])
+subpixel_positioning = 0
+msdf_pixel_range = 14
+msdf_size = 128
+cache/0/16/0/ascent = 0.0
+cache/0/16/0/descent = 0.0
+cache/0/16/0/underline_position = 0.0
+cache/0/16/0/underline_thickness = 0.0
+cache/0/16/0/scale = 1.0
+cache/0/16/0/kerning_overrides/16/0 = Vector2(0, 0)
+
+[node name="level" type="Button"]
+offset_right = 62.0
+offset_bottom = 24.0
+theme_override_fonts/font = SubResource("1")
+text = "5-5"
+flat = true
+script = ExtResource("2")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+show_behind_parent = true
+layout_mode = 0
+offset_right = 62.0
+offset_bottom = 24.0
+texture = ExtResource("3")
